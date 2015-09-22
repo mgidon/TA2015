@@ -547,3 +547,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY oracle.eclipse.tools.glassfish 1 1 2015-09-22 16:48:33.151
 !MESSAGE GlassFish: Deploy direcotry /local/gidon/program/glassfish4/glassfish/domains/domain1/eclipseApps/operation
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-09-22 17:13:13.265
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-09-22 17:13:13.276
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
