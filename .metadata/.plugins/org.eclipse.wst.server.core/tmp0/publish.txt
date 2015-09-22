@@ -1,0 +1,4 @@
+#GlassFish 3
+#Tue Sep 22 16:48:33 CEST 2015
+org.eclipse.jst.j2ee.server\:operation=/local/gidon/program/glassfish4/glassfish/domains/domain1/eclipseApps/operation
+org.eclipse.jst.jee.server\:monProjet=/local/gidon/program/glassfish4/glassfish/domains/domain1/eclipseApps/monProjet

@@ -1,0 +1,17 @@
+package org.m2miage.my_app;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        getHello();
+    }
+    
+    public static String getHello(){
+    	return "Hello world";
+    }
+}

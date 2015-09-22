@@ -1,0 +1,14 @@
+package org.m2miage.my_app;
+package org.m2miage.my_subapp;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        HelloWorld();
+    }
+}
